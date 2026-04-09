@@ -2,8 +2,13 @@ HEAD
 
 # login_task
 
-Program dibuat untuk memenuhi tahapan tes kemampuan bidang PT JAVIS TEKNOLOGI AL BAROKAH untuk posisi Staff Web Programmer
+Program dibuat untuk memenuhi tahapan tes kemampuan bidang PT JAVIS TEKNOLOGI AL BAROKAH untuk posisi Staff Web Programmer dengan menggunakan framework Codeigniter 4 dan database MySQL
 
+- File database berada pada folder 'mysql'
+- Berikut beberapa screenshoot program
+![image_alt](https://github.com/muhbangga/login_task/blob/32d8f7e3c7c25de9d7f5aaaecc1bc5f5dde9d9ff/capture/login.PNG)
+![image_alt](https://github.com/muhbangga/login_task/blob/32d8f7e3c7c25de9d7f5aaaecc1bc5f5dde9d9ff/capture/register.PNG)
+![image_alt](https://github.com/muhbangga/login_task/blob/32d8f7e3c7c25de9d7f5aaaecc1bc5f5dde9d9ff/capture/index.PNG) 
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
